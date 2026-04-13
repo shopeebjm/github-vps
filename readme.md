@@ -11,9 +11,6 @@
       <a href="https://www.twitter.com/shopeebjm">
         <img src="https://img.shields.io/badge/Twitter-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="X">
     </a>
-    <a href="https://medium.com/@l0n3m4n">
-        <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium">
-    </a>
     <a href="https://hub.docker.com/r/kalilinux/kali-rolling">
     <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
     </a>
